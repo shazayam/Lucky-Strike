@@ -1,0 +1,2 @@
+# Lucky-Strike
+Bitcoin mining
